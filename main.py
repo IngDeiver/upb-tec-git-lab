@@ -5,8 +5,8 @@ app = Flask(__name__)
 usuarios = [
     {"id": 1, "nombre": "Pablito"},
     {"id": 2, "nombre": "Julian"},
-    {"id": 3, "nombre": "Pedro"}
-    {"id": 3, "nombre": "luis"}
+    {"id": 3, "nombre": "Pedro"},
+    {"id": 4, "nombre": "luis"}
     
 ]
 
